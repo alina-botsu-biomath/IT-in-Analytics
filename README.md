@@ -26,7 +26,7 @@ This repository contains practical laboratory works, data analysis models, and r
 
 ---
 The description of the repository contents will include a reading of each lab work and a short summary of the operation performed.
-
+---
 Lab 1
 Аліна Олегівна Боцу - Lab 1. Google sheets basics
 
@@ -60,6 +60,7 @@ use of addition, multiplication and operator AND
 referencing a cell on another sheet
 <img width="1248" height="308" alt="image" src="https://github.com/user-attachments/assets/d0f30ade-acee-4723-82cb-bf77ced4377f" />
 
+---
 Аліна Олегівна Боцу - Lab 2. Відносна, абсолютна та змішана адресація
 
 subtraction operation
@@ -80,6 +81,7 @@ Using a function ROUND to round
 <img width="1066" height="507" alt="image" src="https://github.com/user-attachments/assets/aaf9d6b3-d39c-4e7c-b3b8-f60ca5df3858" />
 <img width="1109" height="172" alt="image" src="https://github.com/user-attachments/assets/c84b8ab8-a1e0-473e-a9c8-f1e6e819c16d" />
 
+---
 Аліна Олегівна Боцу - Lab 3. Робота з текстом, датами та часом
 
 working with dates and times
@@ -123,6 +125,7 @@ working with a phone number and full name
 
 <img width="777" height="184" alt="image" src="https://github.com/user-attachments/assets/e850598c-50d6-444d-9d5f-4d1e4b4c696e" />
 
+---
 Аліна Олегівна Боцу - Lab 4.  Робота з масивами
 
 Calculating correlation manually and using the CORREL function
@@ -148,7 +151,7 @@ Arrays operation
 
 
 
-
+---
 1/2Аліна Олегівна Боцу - Lab 6. Exploratory data analysis & decision making
 
 аркуш 1 2 почти одинаковые
@@ -167,45 +170,49 @@ Arrays operation
 
 <img width="1090" height="421" alt="image" src="https://github.com/user-attachments/assets/c6cfd4ba-a516-4d61-82be-01ea03b29393" />
 
+---
 Електронна таблиця без назви
 
-аркуш 1 
+working with finances
 
 <img width="956" height="193" alt="image" src="https://github.com/user-attachments/assets/7d40e306-0a8b-4a65-a68f-f18ea61d6841" />
 
-аркуш 2 
+working with the AVERAGE, SUM, MIN, MAX functions
 <img width="1018" height="229" alt="image" src="https://github.com/user-attachments/assets/c825416a-03f6-47eb-b369-10a933412398" />
 
 <img width="1244" height="230" alt="image" src="https://github.com/user-attachments/assets/d44f9200-8901-4291-b278-a42db365bea1" />
 
-аркуш 3 
+creating random values ​​and conditional formatting
 
 <img width="535" height="197" alt="image" src="https://github.com/user-attachments/assets/fcb3322c-ee33-4ab4-af26-4708ce75bd1b" />
 
-аркуш 4 
+using outer and inner IF function
 
 <img width="869" height="343" alt="image" src="https://github.com/user-attachments/assets/b341ddc1-4f6c-46a6-a407-b086ab34096c" />
 
-аркуш 5 
+using the IF function and the AND operator
+
 <img width="713" height="148" alt="image" src="https://github.com/user-attachments/assets/514d0994-80d6-489a-8e20-3e060a1101f0" />
 
-аркуш 6 
 <img width="701" height="115" alt="image" src="https://github.com/user-attachments/assets/7a472f0a-c592-4c79-b880-41ebd5447c1d" />
 
-аркуш 7
+using the IF function and the OR operator
 
 <img width="850" height="121" alt="image" src="https://github.com/user-attachments/assets/00c1b0ce-e4be-4f90-a973-8498f7df9799" />
 
-1Аліна Олегівна Боцу - Lab5. Advanced tools
-<img width="781" height="239" alt="image" src="https://github.com/user-attachments/assets/13b5222a-ba2e-4cbe-a879-e2c0ed51b68e" />
 
-кору 2
+
+---
+1Аліна Олегівна Боцу - Lab5. Advanced tools
+
+working with large amounts of data, filtering and sorting it
+
+<img width="781" height="239" alt="image" src="https://github.com/user-attachments/assets/13b5222a-ba2e-4cbe-a879-e2c0ed51b68e" />
 
 <img width="504" height="501" alt="image" src="https://github.com/user-attachments/assets/a42bdaeb-ce6a-405a-8411-e2214da7ce51" />
 
-кору 3-6 не понимаю что делала там, думаю и не важно 
+result
 
-кору 7
 <img width="1145" height="308" alt="image" src="https://github.com/user-attachments/assets/e5e38c12-e1df-416c-886a-7fb39017f33d" />
 
 
