@@ -27,34 +27,37 @@ This repository contains practical laboratory works, data analysis models, and r
 ---
 The description of the repository contents will include a reading of each lab work and a short summary of the operation performed.
 
-
-лаба 1 
+Lab 1
 Аліна Олегівна Боцу - Lab 1. Google sheets basics
-аркуш 1 
+
+Division operation
 <img width="623" height="746" alt="image" src="https://github.com/user-attachments/assets/88ef1827-ce54-4d5e-8457-bd346a09bc33" />
 
 <img width="516" height="550" alt="image" src="https://github.com/user-attachments/assets/9512f370-088c-40d7-b5f2-0c0e20cc5ee7" />
 
-аркуш 2 
+Multiplication operation
+
 <img width="879" height="165" alt="image" src="https://github.com/user-attachments/assets/feb4ae1e-d160-4178-a984-47519a1d2397" />
 
-аркуш 3 
+Operation of multiplication and addition
 
 <img width="320" height="421" alt="image" src="https://github.com/user-attachments/assets/64c19fbb-93f9-4a79-aeb2-03dc7cf3430c" />
 
-аркуш 4 
+using the IF function
+
 <img width="472" height="168" alt="image" src="https://github.com/user-attachments/assets/68ad0839-303a-4d03-829c-eddbfbe5d73a" />
 
-аркуш 5 
+using the IFS function
+
 <img width="877" height="193" alt="image" src="https://github.com/user-attachments/assets/806577f0-7013-4fa1-b2ff-523f354bcfa9" />
 
-аркуш 6
+using the SUMIF function
+
 <img width="406" height="389" alt="image" src="https://github.com/user-attachments/assets/14afa9d8-93fa-4f6e-a4b2-025529cf0cdb" />
 
-аркуш 7
+use of addition, multiplication and operator AND
 <img width="946" height="628" alt="image" src="https://github.com/user-attachments/assets/70d5ee60-ddd6-46c5-8466-b95627316204" />
-
-аркуш 8
+referencing a cell on another sheet
 <img width="1248" height="308" alt="image" src="https://github.com/user-attachments/assets/d0f30ade-acee-4723-82cb-bf77ced4377f" />
 
 Аліна Олегівна Боцу - Lab 2. Відносна, абсолютна та змішана адресація
