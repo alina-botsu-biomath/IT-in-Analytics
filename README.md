@@ -52,12 +52,15 @@ using the IFS function
 <img width="877" height="193" alt="image" src="https://github.com/user-attachments/assets/806577f0-7013-4fa1-b2ff-523f354bcfa9" />
 
 using the SUMIF function
+
 <img width="406" height="389" alt="image" src="https://github.com/user-attachments/assets/14afa9d8-93fa-4f6e-a4b2-025529cf0cdb" />
 
 use of addition, multiplication and operator AND
+
 <img width="946" height="628" alt="image" src="https://github.com/user-attachments/assets/70d5ee60-ddd6-46c5-8466-b95627316204" />
 
 referencing a cell on another sheet
+
 <img width="1248" height="308" alt="image" src="https://github.com/user-attachments/assets/d0f30ade-acee-4723-82cb-bf77ced4377f" />
 
 ---
@@ -78,6 +81,7 @@ raising to a power
 <img width="377" height="259" alt="image" src="https://github.com/user-attachments/assets/14adfbcb-1a64-4883-aa17-af3e165c3632" />
 
 Using a function ROUND to round
+
 <img width="1066" height="507" alt="image" src="https://github.com/user-attachments/assets/aaf9d6b3-d39c-4e7c-b3b8-f60ca5df3858" />
 <img width="1109" height="172" alt="image" src="https://github.com/user-attachments/assets/c84b8ab8-a1e0-473e-a9c8-f1e6e819c16d" />
 
@@ -97,76 +101,99 @@ working with dates and times
 <img width="590" height="656" alt="image" src="https://github.com/user-attachments/assets/7f76b24d-7c4f-4737-99b9-183ad81abd3e" />
 
 writing a certain number of characters from different sides
+
 <img width="1099" height="273" alt="image" src="https://github.com/user-attachments/assets/542e344b-7bd2-496a-b38c-4c25b51da6fd" />
 <img width="1100" height="265" alt="image" src="https://github.com/user-attachments/assets/4f2d8e61-7281-4f72-95bb-b4e04c3e553f" />
-
 <img width="999" height="286" alt="image" src="https://github.com/user-attachments/assets/416ad152-57c6-43fa-b2e4-e434194f8471" />
-
 <img width="989" height="282" alt="image" src="https://github.com/user-attachments/assets/eb36d654-0121-4cdd-a4f2-6d3f55ac11a3" />
-
 <img width="992" height="285" alt="image" src="https://github.com/user-attachments/assets/e698d923-56da-4403-98cc-cb472c9ebb8b" />
-
 <img width="993" height="285" alt="image" src="https://github.com/user-attachments/assets/854b58ce-733b-4c0a-9dd0-9ed35db00b0e" />
 
 working with a phone number
 
 <img width="741" height="185" alt="image" src="https://github.com/user-attachments/assets/6e462832-13c3-4d65-988f-0f4edb813086" />
-
 <img width="615" height="185" alt="image" src="https://github.com/user-attachments/assets/d69d2cab-0f86-4053-b1f7-3bd127fd9267" />
 
 working with a phone number and full name
+
 <img width="949" height="193" alt="image" src="https://github.com/user-attachments/assets/753f0a00-6a0a-4393-967d-af19dec1cb74" />
-
 <img width="945" height="191" alt="image" src="https://github.com/user-attachments/assets/07381bdc-bb62-40e1-bb15-38c3bd5c6ca6" />
-
 <img width="944" height="190" alt="image" src="https://github.com/user-attachments/assets/2fb41e87-7367-4b2d-a776-942420f0df7a" />
-
 <img width="943" height="189" alt="image" src="https://github.com/user-attachments/assets/3306bb35-0a13-4f25-89ff-98696a0b6c8d" />
-
 <img width="777" height="184" alt="image" src="https://github.com/user-attachments/assets/e850598c-50d6-444d-9d5f-4d1e4b4c696e" />
 
 ---
 Аліна Олегівна Боцу - Lab 4.  Робота з масивами
 
 Calculating correlation manually and using the CORREL function
+
 <img width="1229" height="701" alt="image" src="https://github.com/user-attachments/assets/10b9d22e-86e3-4198-b3ac-1b693ccd9907" />
 <img width="1151" height="596" alt="image" src="https://github.com/user-attachments/assets/7401401f-fc77-493f-914f-473cc157560d" />
 <img width="1185" height="597" alt="image" src="https://github.com/user-attachments/assets/6fd9d71c-91e3-4261-9268-ea77da9a88c6" />
  <img width="1180" height="613" alt="image" src="https://github.com/user-attachments/assets/36ddabfc-6aaf-4481-9606-2d22fc4fc69d" />
 
 Arrays operation
+
 <img width="552" height="265" alt="image" src="https://github.com/user-attachments/assets/30369492-1aee-4839-9d63-c918b9c68e1d" />
 <img width="993" height="159" alt="image" src="https://github.com/user-attachments/assets/a278305a-2219-448f-be5c-80963ad14a50" />
 <img width="911" height="185" alt="image" src="https://github.com/user-attachments/assets/e367b5d6-b17d-4985-8c8f-7e425ac01b12" />
-
 <img width="911" height="182" alt="image" src="https://github.com/user-attachments/assets/016cf920-6069-4818-b848-ec296922ba0c" />
-
 <img width="993" height="205" alt="image" src="https://github.com/user-attachments/assets/9c13cdc2-863a-420b-b198-6c941dc066e4" />
-
 <img width="342" height="280" alt="image" src="https://github.com/user-attachments/assets/89ee4943-4d46-428f-a77e-1319d731b108" />
-
 <img width="515" height="159" alt="image" src="https://github.com/user-attachments/assets/0e52b1c1-88d2-4ded-8c21-04f45bf19bc1" />
-
 <img width="285" height="188" alt="image" src="https://github.com/user-attachments/assets/02c0b5c5-abe5-4b24-a58c-c7b5d0ea060d" />
 
+---
+1Аліна Олегівна Боцу - Lab5. Advanced tools
 
+working with large amounts of data, filtering and sorting it
+
+<img width="781" height="239" alt="image" src="https://github.com/user-attachments/assets/13b5222a-ba2e-4cbe-a879-e2c0ed51b68e" />
+<img width="504" height="501" alt="image" src="https://github.com/user-attachments/assets/a42bdaeb-ce6a-405a-8411-e2214da7ce51" />
+
+result
+
+<img width="1145" height="308" alt="image" src="https://github.com/user-attachments/assets/e5e38c12-e1df-416c-886a-7fb39017f33d" />
+
+---
+1\1 Lab 6. Exploratory data analysis & decision making Боцу А.О
+
+With the required data array
+
+<img width="679" height="185" alt="image" src="https://github.com/user-attachments/assets/6b105f90-bf54-4db2-b0e7-1d60997d2f7d" />
+
+calculates the correlation for each indicator
+<img width="1195" height="137" alt="image" src="https://github.com/user-attachments/assets/fd87fd92-8605-4c29-b33e-c537f6d5fa52" />
+
+Visually plotting dependence graphs
+<img width="1244" height="517" alt="image" src="https://github.com/user-attachments/assets/63a5f9bf-273f-4d80-bea9-63f8f90158b5" />
+<img width="1241" height="495" alt="image" src="https://github.com/user-attachments/assets/15f17b68-3958-45d8-b983-c21461bdd1bc" />
+<img width="1249" height="487" alt="image" src="https://github.com/user-attachments/assets/3c2745a0-e447-4dba-8e63-9a9f73a4af61" />
+
+Construction of a histogram, diagram, and cartogram
+
+<img width="1250" height="706" alt="image" src="https://github.com/user-attachments/assets/6699db42-a58b-4418-9eea-07414856a3e1" />
+<img width="1234" height="685" alt="image" src="https://github.com/user-attachments/assets/5fa78817-4343-42ac-bed7-15f7fbfef31f" />
+<img width="1100" height="548" alt="image" src="https://github.com/user-attachments/assets/bab65a5a-98c8-46fe-ab2a-b58e41a2eac0" />
+<img width="1022" height="749" alt="image" src="https://github.com/user-attachments/assets/e82f69af-b249-4545-8171-fdb3cba3794b" />
+<img width="1257" height="745" alt="image" src="https://github.com/user-attachments/assets/34e901d0-1537-4e96-8cee-db4859ae5d00" />
+
+A more detailed description and results of the work are available in the file repositories.
 
 ---
 1/2Аліна Олегівна Боцу - Lab 6. Exploratory data analysis & decision making
 
-аркуш 1 2 почти одинаковые
-аркуш 3 
-
+Working with apartment data
 <img width="1247" height="637" alt="image" src="https://github.com/user-attachments/assets/9807679f-ea2b-4216-9c16-2cd78098ba5d" />
 
-аркуш 6
+Calculating coefficients
 
-<img width="1246" height="631" alt="image" src="https://github.com/user-attachments/assets/fe1aedb9-8c2d-4303-b88c-14b5f8988519" />
-
-аркуш 5 
+<img width="1246" height="631" alt="image" src="https://github.com/user-attachments/assets/fe1aedb9-8c2d-4303-b88c-14b5f8988519" /> 
 <img width="1162" height="642" alt="image" src="https://github.com/user-attachments/assets/fb7d6e3e-d611-489f-b885-07bcf2311c5e" />
 
 2) Аліна Олегівна Боцу - Lab 6. Exploratory data analysis & decision making
+
+reference materials for previous work
 
 <img width="1090" height="421" alt="image" src="https://github.com/user-attachments/assets/c6cfd4ba-a516-4d61-82be-01ea03b29393" />
 
@@ -202,54 +229,6 @@ using the IF function and the OR operator
 
 
 
----
-1Аліна Олегівна Боцу - Lab5. Advanced tools
-
-working with large amounts of data, filtering and sorting it
-
-<img width="781" height="239" alt="image" src="https://github.com/user-attachments/assets/13b5222a-ba2e-4cbe-a879-e2c0ed51b68e" />
-
-<img width="504" height="501" alt="image" src="https://github.com/user-attachments/assets/a42bdaeb-ce6a-405a-8411-e2214da7ce51" />
-
-result
-
-<img width="1145" height="308" alt="image" src="https://github.com/user-attachments/assets/e5e38c12-e1df-416c-886a-7fb39017f33d" />
 
 
-1\1 Lab 6. Exploratory data analysis & decision making Боцу А.О
 
-дринкс
-
-<img width="679" height="185" alt="image" src="https://github.com/user-attachments/assets/6b105f90-bf54-4db2-b0e7-1d60997d2f7d" />
-
-копия аркуша дринкс 
-<img width="1195" height="137" alt="image" src="https://github.com/user-attachments/assets/fd87fd92-8605-4c29-b33e-c537f6d5fa52" />
-
-зведена таблиця 5,3
-<img width="1244" height="517" alt="image" src="https://github.com/user-attachments/assets/63a5f9bf-273f-4d80-bea9-63f8f90158b5" />
-
-5,2
-<img width="1241" height="495" alt="image" src="https://github.com/user-attachments/assets/15f17b68-3958-45d8-b983-c21461bdd1bc" />
-
-5,1
-<img width="1249" height="487" alt="image" src="https://github.com/user-attachments/assets/3c2745a0-e447-4dba-8e63-9a9f73a4af61" />
-
-4
-
-<img width="270" height="200" alt="image" src="https://github.com/user-attachments/assets/bc0ec176-ba4d-4227-8357-0bfd6399a794" />
-
-диаграмма 8
-<img width="1250" height="706" alt="image" src="https://github.com/user-attachments/assets/6699db42-a58b-4418-9eea-07414856a3e1" />
-
-4
-<img width="1234" height="685" alt="image" src="https://github.com/user-attachments/assets/5fa78817-4343-42ac-bed7-15f7fbfef31f" />
-
-Зв таб 3
-
-<img width="1100" height="548" alt="image" src="https://github.com/user-attachments/assets/bab65a5a-98c8-46fe-ab2a-b58e41a2eac0" />
-
-диаграмма 2
-<img width="1022" height="749" alt="image" src="https://github.com/user-attachments/assets/e82f69af-b249-4545-8171-fdb3cba3794b" />
-
-1
-<img width="1257" height="745" alt="image" src="https://github.com/user-attachments/assets/34e901d0-1537-4e96-8cee-db4859ae5d00" />
