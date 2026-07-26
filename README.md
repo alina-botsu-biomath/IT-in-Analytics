@@ -25,6 +25,8 @@ This repository contains practical laboratory works, data analysis models, and r
 * **Core Skills:** Exploratory Data Analysis (EDA), Data Visualization, Pivot Tables, Array Calculations, Business Analytics
 
 ---
+The description of the repository contents will include a reading of each lab work and a short summary of the operation performed.
+
 
 лаба 1 
 Аліна Олегівна Боцу - Lab 1. Google sheets basics
