@@ -1,9 +1,30 @@
-# IT-in-Analytics
 
-вести реадми на английском, для себя на русском заметки 
+# IT in Analytics
 
-начать с лабораторной 1-6 и потом отчеты 
-этот файл будет ну
+This repository contains practical laboratory works, data analysis models, and reports completed for the **IT in Analytics** course taught by **Alina Olehivna Botsu**.
+
+---
+
+> **📌 Заметки для себя / Quick Info**
+> - **Курс:** ИТ в аналитике (IT in Analytics)
+> - **Преподаватель:** Аліна Олегівна Боцу
+> - **Цель репозитория:** Сквозное хранение всех лабораторных работ (1–6) и итоговых отчетов с визуализацией прогресса.
+> - **Формат выполнения:** Работа с табличными процессорами, обработка реальных датасетов, построение сводных таблиц и дашбордов.
+
+---
+
+## 🎯 Key Objectives
+
+* **Data Manipulation & Cleaning:** Master essential techniques for structuring, cleaning, and transforming raw data in Google Sheets.
+* **Analytical Formulas:** Develop proficiency in cell addressing, logic operations, array formulas (`ARRAYFORMULA`), and specialized text/date functions.
+* **Data Visualization & EDA:** Learn how to extract insights using dynamic Pivot Tables, trend analysis, and interactive dashboards to support decision-making.
+
+## 🛠️ Tech & Tools
+
+* **Primary Software:** Google Sheets / Microsoft Excel
+* **Core Skills:** Exploratory Data Analysis (EDA), Data Visualization, Pivot Tables, Array Calculations, Business Analytics
+
+---
 
 лаба 1 
 Аліна Олегівна Боцу - Lab 1. Google sheets basics
