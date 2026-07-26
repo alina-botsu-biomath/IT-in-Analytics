@@ -175,3 +175,83 @@
 2) Аліна Олегівна Боцу - Lab 6. Exploratory data analysis & decision making
 
 <img width="1090" height="421" alt="image" src="https://github.com/user-attachments/assets/c6cfd4ba-a516-4d61-82be-01ea03b29393" />
+
+Електронна таблиця без назви
+
+аркуш 1 
+
+<img width="956" height="193" alt="image" src="https://github.com/user-attachments/assets/7d40e306-0a8b-4a65-a68f-f18ea61d6841" />
+
+аркуш 2 
+<img width="1018" height="229" alt="image" src="https://github.com/user-attachments/assets/c825416a-03f6-47eb-b369-10a933412398" />
+
+<img width="1244" height="230" alt="image" src="https://github.com/user-attachments/assets/d44f9200-8901-4291-b278-a42db365bea1" />
+
+аркуш 3 
+
+<img width="535" height="197" alt="image" src="https://github.com/user-attachments/assets/fcb3322c-ee33-4ab4-af26-4708ce75bd1b" />
+
+аркуш 4 
+
+<img width="869" height="343" alt="image" src="https://github.com/user-attachments/assets/b341ddc1-4f6c-46a6-a407-b086ab34096c" />
+
+аркуш 5 
+<img width="713" height="148" alt="image" src="https://github.com/user-attachments/assets/514d0994-80d6-489a-8e20-3e060a1101f0" />
+
+аркуш 6 
+<img width="701" height="115" alt="image" src="https://github.com/user-attachments/assets/7a472f0a-c592-4c79-b880-41ebd5447c1d" />
+
+аркуш 7
+
+<img width="850" height="121" alt="image" src="https://github.com/user-attachments/assets/00c1b0ce-e4be-4f90-a973-8498f7df9799" />
+
+1Аліна Олегівна Боцу - Lab5. Advanced tools
+<img width="781" height="239" alt="image" src="https://github.com/user-attachments/assets/13b5222a-ba2e-4cbe-a879-e2c0ed51b68e" />
+
+кору 2
+
+<img width="504" height="501" alt="image" src="https://github.com/user-attachments/assets/a42bdaeb-ce6a-405a-8411-e2214da7ce51" />
+
+кору 3-6 не понимаю что делала там, думаю и не важно 
+
+кору 7
+<img width="1145" height="308" alt="image" src="https://github.com/user-attachments/assets/e5e38c12-e1df-416c-886a-7fb39017f33d" />
+
+
+1\1 Lab 6. Exploratory data analysis & decision making Боцу А.О
+
+дринкс
+
+<img width="679" height="185" alt="image" src="https://github.com/user-attachments/assets/6b105f90-bf54-4db2-b0e7-1d60997d2f7d" />
+
+копия аркуша дринкс 
+<img width="1195" height="137" alt="image" src="https://github.com/user-attachments/assets/fd87fd92-8605-4c29-b33e-c537f6d5fa52" />
+
+зведена таблиця 5,3
+<img width="1244" height="517" alt="image" src="https://github.com/user-attachments/assets/63a5f9bf-273f-4d80-bea9-63f8f90158b5" />
+
+5,2
+<img width="1241" height="495" alt="image" src="https://github.com/user-attachments/assets/15f17b68-3958-45d8-b983-c21461bdd1bc" />
+
+5,1
+<img width="1249" height="487" alt="image" src="https://github.com/user-attachments/assets/3c2745a0-e447-4dba-8e63-9a9f73a4af61" />
+
+4
+
+<img width="270" height="200" alt="image" src="https://github.com/user-attachments/assets/bc0ec176-ba4d-4227-8357-0bfd6399a794" />
+
+диаграмма 8
+<img width="1250" height="706" alt="image" src="https://github.com/user-attachments/assets/6699db42-a58b-4418-9eea-07414856a3e1" />
+
+4
+<img width="1234" height="685" alt="image" src="https://github.com/user-attachments/assets/5fa78817-4343-42ac-bed7-15f7fbfef31f" />
+
+Зв таб 3
+
+<img width="1100" height="548" alt="image" src="https://github.com/user-attachments/assets/bab65a5a-98c8-46fe-ab2a-b58e41a2eac0" />
+
+диаграмма 2
+<img width="1022" height="749" alt="image" src="https://github.com/user-attachments/assets/e82f69af-b249-4545-8171-fdb3cba3794b" />
+
+1
+<img width="1257" height="745" alt="image" src="https://github.com/user-attachments/assets/34e901d0-1537-4e96-8cee-db4859ae5d00" />
